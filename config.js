@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "8 Benjamin Lane",
     "city": "North Grenville (Kemptville East)",
@@ -96,6 +96,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-177",
     "tag": "Open House 8 Benjamin Lane",
     "netlifyUrl": null,
-    "siteId": null
+    "siteId": "6c8caf3d-962d-49d4-85b6-4e96152b1010"
   }
-}
+};
